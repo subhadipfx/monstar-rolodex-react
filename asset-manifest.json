@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/://subhadipfx.github.io/monster-rolodex-react/static/css/main.afb21efd.chunk.css",
+    "main.js": "/://subhadipfx.github.io/monster-rolodex-react/static/js/main.1d4e755f.chunk.js",
+    "main.js.map": "/://subhadipfx.github.io/monster-rolodex-react/static/js/main.1d4e755f.chunk.js.map",
+    "runtime-main.js": "/://subhadipfx.github.io/monster-rolodex-react/static/js/runtime-main.b04d5e34.js",
+    "runtime-main.js.map": "/://subhadipfx.github.io/monster-rolodex-react/static/js/runtime-main.b04d5e34.js.map",
+    "static/js/2.4ae214a8.chunk.js": "/://subhadipfx.github.io/monster-rolodex-react/static/js/2.4ae214a8.chunk.js",
+    "static/js/2.4ae214a8.chunk.js.map": "/://subhadipfx.github.io/monster-rolodex-react/static/js/2.4ae214a8.chunk.js.map",
+    "static/js/3.9fb4beb9.chunk.js": "/://subhadipfx.github.io/monster-rolodex-react/static/js/3.9fb4beb9.chunk.js",
+    "static/js/3.9fb4beb9.chunk.js.map": "/://subhadipfx.github.io/monster-rolodex-react/static/js/3.9fb4beb9.chunk.js.map",
+    "index.html": "/://subhadipfx.github.io/monster-rolodex-react/index.html",
+    "static/css/main.afb21efd.chunk.css.map": "/://subhadipfx.github.io/monster-rolodex-react/static/css/main.afb21efd.chunk.css.map",
+    "static/js/2.4ae214a8.chunk.js.LICENSE.txt": "/://subhadipfx.github.io/monster-rolodex-react/static/js/2.4ae214a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b04d5e34.js",
+    "static/js/2.4ae214a8.chunk.js",
+    "static/css/main.afb21efd.chunk.css",
+    "static/js/main.1d4e755f.chunk.js"
+  ]
+}
